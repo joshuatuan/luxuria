@@ -40,7 +40,7 @@ export default function HansenTablet() {
           <h2 className="text-3xl md:text-5xl font-bold mb-6">
             Stay Connected With Our Tablet
           </h2>
-          <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+          <p className="text-base md:text-lg text-gray-600 max-w-3xl mx-auto">
             Our custom communications tablet keeps you informed and connected
             throughout the entire selling process.
           </p>
@@ -56,7 +56,9 @@ export default function HansenTablet() {
                     <h3 className="text-lg font-semibold mb-2">
                       {feature.title}
                     </h3>
-                    <p className="text-gray-600">{feature.description}</p>
+                    <p className="text-gray-600 text-sm md:text-base">
+                      {feature.description}
+                    </p>
                   </div>
                 </div>
               ))}
@@ -69,7 +71,7 @@ export default function HansenTablet() {
                 <h3 className="text-2xl font-bold mb-4">
                   The Hansen Partners Communications Tablet
                 </h3>
-                <p className="text-gray-600 mb-8">
+                <p className="text-gray-600 mb-8 text-sm md:text-base">
                   We have created this as a wonderful tool so that we can
                   communicate with you daily, provide you with updates on what
                   is happening with your home. We are available at the with a

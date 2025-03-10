@@ -8,7 +8,7 @@ export default function HomeStaging() {
           <h2 className="text-3xl md:text-5xl font-bold mb-6">
             The Art of Home Staging
           </h2>
-          <p className="text-lg text-gray-700 max-w-3xl mx-auto">
+          <p className="text-base md:text-lg text-gray-700 max-w-3xl mx-auto">
             Our professional staging transforms your property into an
             irresistible home that buyers can envision themselves living in.
           </p>

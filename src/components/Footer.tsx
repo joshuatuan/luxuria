@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="space-y-8">
           <div>
             <h3 className="font-semibold text-lg">Julie Hansen Partnership</h3>
-            <p className="mt-2 leading-relaxed text-gray-700">
+            <p className="text-sm md:text-base mt-2 leading-relaxed text-gray-700">
               An elite group of the East Bay’s most talented and visionary real
               estate professionals believed buyers and sellers deserved more
               from their real estate company. More service. More resources. More
@@ -66,7 +66,7 @@ export default function Footer() {
 
         <div className="space-y-2">
           <h3 className="font-semibold text-lg">Newsletter</h3>
-          <p className="text-gray-700">
+          <p className="text-gray-700 text-sm md:text-base">
             Subscribe to our Newsletter for latest news and updates. Stay tuned!
           </p>
           <div className="flex items-center">

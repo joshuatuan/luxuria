@@ -9,7 +9,7 @@ export default function Processes() {
         <h2 className="text-3xl md:text-5xl font-bold mb-6">
           Navigating Your Real Estate Journey
         </h2>
-        <p className="text-lg text-gray-700 max-w-3xl mx-auto">
+        <p className="text-base md:text-lg text-gray-700 max-w-3xl mx-auto">
           Whether you're buying or selling, understanding the process is key.
           Explore our step-by-step guides to make informed decisions with
           confidence.

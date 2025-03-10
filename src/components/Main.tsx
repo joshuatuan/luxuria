@@ -8,7 +8,7 @@ import WorkWithUs from "@/sections/WorkWithUs";
 
 export default function Main() {
   return (
-    <main className="space-y-36 mx-auto">
+    <main className="space-y-36 mx-auto p-3 md:p-0">
       <MarketingPlan />
       <HomeStaging />
       <Processes />

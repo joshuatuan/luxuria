@@ -34,7 +34,7 @@ export default function MarketingPlan() {
           <h2 className="font-bold text-center text-3xl md:text-4xl lg:text-5xl mb-4">
             Comprehensive Marketing Plan
           </h2>
-          <p className="text-lg text-gray-600 text-center max-w-3xl mx-auto">
+          <p className="text-base md:text-lg text-gray-600 text-center max-w-3xl mx-auto">
             We leverage cutting-edge marketing techniques to showcase your
             property to the right audience.
           </p>
