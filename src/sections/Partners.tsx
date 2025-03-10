@@ -1,7 +1,7 @@
 export default function Partners() {
   return (
     <section className="space-y-12 max-w-7xl mx-auto px-6">
-      <div className="relative h-[300px] md:h-[500px] bg-[url('our-partners.jpeg')] brightness-105 bg-cover bg-center rounded-lg mb-10" />
+      <div className="relative h-[300px] md:h-[500px] bg-[url('/our-partners.jpeg')] brightness-105 bg-cover bg-center rounded-lg mb-10" />
 
       <div className="space-y-10 max-w-4xl mx-auto">
         <h3 className="text-3xl md:text-4xl font-medium text-center">
@@ -44,7 +44,7 @@ export default function Partners() {
         </div>
       </div>
 
-      <div className="relative h-[300px] md:h-[530px] bg-[url('global.jpeg')] brightness-105 bg-cover bg-center rounded-lg mb-10" />
+      <div className="relative h-[300px] md:h-[530px] bg-[url('/global.jpeg')] brightness-105 bg-cover bg-center rounded-lg mb-10" />
 
       <div className="space-y-10 max-w-4xl mx-auto">
         <h3 className="text-3xl md:text-4xl font-medium text-center">

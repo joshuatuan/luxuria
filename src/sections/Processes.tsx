@@ -17,7 +17,7 @@ export default function Processes() {
       </div>
 
       {/* Selling Process */}
-      <div className="relative h-auto md:h-[500px] bg-[url('meeting.jpeg')] bg-cover bg-center rounded-lg">
+      <div className="relative h-auto md:h-[500px] bg-[url('/meeting.jpeg')] bg-cover bg-center rounded-lg">
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/15 rounded-lg"></div>
         <div className="relative z-10 flex flex-col justify-between h-full text-white p-8 md:p-10">
           <h3 className="text-3xl md:text-4xl font-medium text-center md:text-left font-serif underline">
@@ -42,7 +42,7 @@ export default function Processes() {
       </div>
 
       {/* Buying Process */}
-      <div className="relative h-auto md:h-[500px] bg-[url('woman-at-work.jpeg')] bg-cover bg-center rounded-lg">
+      <div className="relative h-auto md:h-[500px] bg-[url('/woman-at-work.jpeg')] bg-cover bg-center rounded-lg">
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/15 rounded-lg"></div>
         <div className="relative z-10 flex flex-col justify-between h-full text-white p-8 md:p-10">
           <h3 className="text-3xl md:text-4xl font-medium text-center md:text-left font-serif underline">

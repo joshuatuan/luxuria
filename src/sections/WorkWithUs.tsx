@@ -1,7 +1,7 @@
 export default function WorkWithUs() {
   return (
     <section>
-      <div className="relative h-[720px] bg-[url('cozy-living-room.jpeg')] bg-cover bg-center">
+      <div className="relative h-[720px] bg-[url('/cozy-living-room.jpeg')] bg-cover bg-center">
         <div className="absolute inset-0 bg-black/50 "></div>
         <div className="relative font-serif z-10 flex flex-col justify-between h-full text-white">
           <div className="flex flex-col gap-12 justify-center mb-14 items-center h-full">
