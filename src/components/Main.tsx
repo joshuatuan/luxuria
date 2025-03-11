@@ -4,7 +4,6 @@ import MarketingPlan from "@/sections/MarketingPlan";
 import Partners from "@/sections/Partners";
 import Processes from "@/sections/Processes";
 import ProvenTrackRecord from "@/sections/ProvenTrackRecord ";
-import WorkWithUs from "@/sections/WorkWithUs";
 
 export default function Main() {
   return (
@@ -15,7 +14,6 @@ export default function Main() {
       <ProvenTrackRecord />
       <HansenTablet />
       <Partners />
-      <WorkWithUs />
     </main>
   );
 }
